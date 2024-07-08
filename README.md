@@ -1,7 +1,9 @@
-<h1 align="center">Hi, I'm Kafi</h1>
+<h1 align="center">Assalamu 'Alikum, I'm Kafi</h1>
 <h3 align="center">A Passionate Competitive Programmer. Currently studying in Computer Science at International Islamic University Chittagong. I am interested in various technologies and want to implement them to solve real-world problem and serve mankind.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-kafi&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-kafi" /> </p>
+
+- 🌱 I’m currently learning **Object Oriented Programming, Discrete Mathematics**
 
 - 📫 How to reach me **abdullahkafichowdhury@gmail.com**
 
