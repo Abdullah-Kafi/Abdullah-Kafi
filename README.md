@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-kafi&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-kafi" /> </p>
 
-- 🌱 I’m currently learning **Object Oriented Programming, Discrete Mathematics**
-
 - 📫 How to reach me **abdullahkafichowdhury@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
